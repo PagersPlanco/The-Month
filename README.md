@@ -2,11 +2,16 @@
 
 <img src="https://github.com/user-attachments/assets/6831ae01-1180-4ed3-a60f-08c7db4e2d8e" width="60"/> 
 
-**The Month - 당신의 하루를, 캔버스에**
+**The Month - 당신의 한 달을, 캔버스에**
+
+![image 1](https://github.com/user-attachments/assets/538c86f5-ac6e-40cb-9602-6a0458b39277)
+
 
 👉🏻 [앱스토어 링크](https://apps.apple.com/kr/app/the-month/id6504983925)
 
 현재 버전: v1.0.2
+
+_**(⬇️ 기술 소개는 하단에...)**_
 
 ## 앱 소개
 오늘의 하루를 글과 함께, 나만의 월간 캔버스에 꼴라쥬 해보세요! ☘️
@@ -61,8 +66,29 @@
 
 ## 스크린샷
 
+### - 크롭
+<img src="https://github.com/user-attachments/assets/d73aa762-1da3-4be3-84cb-83cd8440a681" width="200"/> 
+
+### - 올가미 툴
+
+<img src="https://github.com/user-attachments/assets/4b7b6885-edab-4d14-a121-b32a1e4bde3f" width="200"/> 
+
+### - 누끼 따기
+
+<img src="https://github.com/user-attachments/assets/71f905b6-c4db-4aa4-a1c8-c02d54c6107d" width="200"/> <img src="https://github.com/user-attachments/assets/5a03a4a7-ab4d-4841-b3cf-982915448117" width="200"/> 
+
+### - 레이어 조절
+<img src="https://github.com/user-attachments/assets/f24b72e0-db31-4da2-b4e6-6fccc831da7e" width="200"/> 
+
+### - 텍스트 추가 
+
+<img src="https://github.com/user-attachments/assets/e376c7bf-4de8-4c9f-8a6f-13555be2166d" width="200"/>
+
+### - 나의 캔버스 인스타 공유
+<img src="https://github.com/user-attachments/assets/69cffe44-e49f-4cf1-97d1-77fb36f0e4ac" width="200"/>
 
 ## 코어 기술
+
 
 
 ## 팀원
